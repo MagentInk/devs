@@ -3,3 +3,8 @@ if name == "Schulz":
     print("Sieg heil!")  
 else:  
     print("Hande hogg, schwein!")  
+
+i = 0;
+while i < 3:
+    print(i)
+    i = i + 1
