@@ -1,0 +1,5 @@
+name = input("Habe von name?")  
+if name == "Schulz":  
+    print("Sieg heil!")  
+else:  
+    print("Hande hogg, schwein!")  
